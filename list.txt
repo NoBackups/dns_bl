@@ -1,0 +1,5 @@
+# Title : NoBackups - You will not be missed dns. 
+
+# Dirty CloudFlare Pages
+0.0.0.0 k-home3.pages.dev
+0.0.0.0 ekfutrens4.pages.dev
